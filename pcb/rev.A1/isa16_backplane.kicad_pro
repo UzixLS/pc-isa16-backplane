@@ -56,8 +56,8 @@
         }
       ],
       "drc_exclusions": [
-        "unconnected_items|180400000|71000000|6e0b0e20-a20b-4f3d-a70d-f0969e671e72|ed1c68f9-17cb-440b-8dd0-cc97d2559d3f",
-        "unconnected_items|184600000|71000000|ed1c68f9-17cb-440b-8dd0-cc97d2559d3f|56c8385c-8980-4d68-a426-e858f52aec7e"
+        "unconnected_items|180400000|71000000|65738cda-eef2-446f-869e-d4c76508c6e2|075dc0f3-5734-4e60-ad18-605b8a208344",
+        "unconnected_items|184600000|71000000|075dc0f3-5734-4e60-ad18-605b8a208344|52363938-36b6-47cf-a85e-bc2f331ac304"
       ],
       "meta": {
         "filename": "board_design_settings.json",
