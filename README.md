@@ -1,7 +1,7 @@
 ## ISA16-BACKPLANE
 Compact ISA 16-bit backplane board
 
-[![photo](images/thumb.revA.webp)](images/revA.webp?raw=true)
+[![photo](images/thumb.revA.webp)](images/revA.webp)
 
 Specs:
 - 171x155mm
